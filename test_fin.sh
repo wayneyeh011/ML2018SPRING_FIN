@@ -9,7 +9,7 @@ wget -O d4_models.zip my_models.zip https://www.dropbox.com/sh/ccsvflnljg9awly/A
 unzip d4_models.zip
 rm d4_models.zip X_test_dur4.npy 
 wget -O d2_models.zip https://www.dropbox.com/sh/lbypf7ov0ui972o/AAA5Ku5t43bXa3fBP9hqqD4za?dl=1
-unzip d2_models.zip
+unzip -o d2_models.zip
 rm d2_models.zip X_test_dur2.npy
 mv *h5 model/
 
