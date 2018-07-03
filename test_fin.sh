@@ -14,4 +14,4 @@ rm d2_models.zip X_test_dur2.npy
 mv *h5 model/
 
 ## Execute python, argv: <train.csv> <test(submission).csv> <pred.csv>
-python3 tien_test.py $1 $2 $3
+python3 test_fin.py $1 $2 $3
