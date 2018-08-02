@@ -7,3 +7,5 @@
 3.skf_saving, Extract_mfcc, 2d_models are related to training process. Note that the I/O path are not well-maintained.
 
 4.Most of the code is borrowed from https://www.kaggle.com/fizzbuzz/beginner-s-guide-to-audio-data/comments
+
+5.[Warning] Some raw data stored in dropbox have been removed
